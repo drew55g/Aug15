@@ -25,6 +25,7 @@
     // Override point for customization after application launch.
     self.viewController = [[[TVViewController alloc] initWithNibName:@"TVViewController" bundle:nil] autorelease];
     self.window.rootViewController = self.viewController;
+    self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
 }

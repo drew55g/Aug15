@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TVViewController : UIViewController
+@interface TVViewController : UIViewController <UITableViewDataSource>
+{
+    NSArray *states;
+    NSArray *pictures;
+    NSArray *contentsSubItems;
+    NSString *cellReuseIdentifier;
+}
+
 
 @end

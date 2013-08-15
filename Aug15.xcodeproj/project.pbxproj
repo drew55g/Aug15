@@ -18,6 +18,20 @@
 		3A9D5CA717BC717E00FAC0C5 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CA617BC717E00FAC0C5 /* Default-568h@2x.png */; };
 		3A9D5CAA17BC717E00FAC0C5 /* TVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A9D5CA917BC717E00FAC0C5 /* TVViewController.m */; };
 		3A9D5CAD17BC717E00FAC0C5 /* TVViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CAB17BC717E00FAC0C5 /* TVViewController.xib */; };
+		3A9D5CC117BC730D00FAC0C5 /* bulb.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB317BC730D00FAC0C5 /* bulb.png */; };
+		3A9D5CC217BC730D00FAC0C5 /* electromagnetic_relay.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB417BC730D00FAC0C5 /* electromagnetic_relay.png */; };
+		3A9D5CC317BC730D00FAC0C5 /* flange.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB517BC730D00FAC0C5 /* flange.png */; };
+		3A9D5CC417BC730D00FAC0C5 /* flanges.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB617BC730D00FAC0C5 /* flanges.png */; };
+		3A9D5CC517BC730D00FAC0C5 /* flanges1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB717BC730D00FAC0C5 /* flanges1.png */; };
+		3A9D5CC617BC730D00FAC0C5 /* flanges2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB817BC730D00FAC0C5 /* flanges2.png */; };
+		3A9D5CC717BC730D00FAC0C5 /* ic_launcher.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CB917BC730D00FAC0C5 /* ic_launcher.png */; };
+		3A9D5CC817BC730D00FAC0C5 /* lightning_bolt_md.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBA17BC730D00FAC0C5 /* lightning_bolt_md.png */; };
+		3A9D5CC917BC730D00FAC0C5 /* pipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBB17BC730D00FAC0C5 /* pipe.png */; };
+		3A9D5CCA17BC730D00FAC0C5 /* pipe2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBC17BC730D00FAC0C5 /* pipe2.png */; };
+		3A9D5CCB17BC730D00FAC0C5 /* steam.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBD17BC730D00FAC0C5 /* steam.png */; };
+		3A9D5CCC17BC730D00FAC0C5 /* ts.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBE17BC730D00FAC0C5 /* ts.png */; };
+		3A9D5CCD17BC730D00FAC0C5 /* turbine.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CBF17BC730D00FAC0C5 /* turbine.png */; };
+		3A9D5CCE17BC730D00FAC0C5 /* vibrations.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A9D5CC017BC730D00FAC0C5 /* vibrations.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +51,20 @@
 		3A9D5CA817BC717E00FAC0C5 /* TVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVViewController.h; sourceTree = "<group>"; };
 		3A9D5CA917BC717E00FAC0C5 /* TVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVViewController.m; sourceTree = "<group>"; };
 		3A9D5CAC17BC717E00FAC0C5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TVViewController.xib; sourceTree = "<group>"; };
+		3A9D5CB317BC730D00FAC0C5 /* bulb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bulb.png; sourceTree = "<group>"; };
+		3A9D5CB417BC730D00FAC0C5 /* electromagnetic_relay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = electromagnetic_relay.png; sourceTree = "<group>"; };
+		3A9D5CB517BC730D00FAC0C5 /* flange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flange.png; sourceTree = "<group>"; };
+		3A9D5CB617BC730D00FAC0C5 /* flanges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flanges.png; sourceTree = "<group>"; };
+		3A9D5CB717BC730D00FAC0C5 /* flanges1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flanges1.png; sourceTree = "<group>"; };
+		3A9D5CB817BC730D00FAC0C5 /* flanges2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flanges2.png; sourceTree = "<group>"; };
+		3A9D5CB917BC730D00FAC0C5 /* ic_launcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_launcher.png; sourceTree = "<group>"; };
+		3A9D5CBA17BC730D00FAC0C5 /* lightning_bolt_md.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightning_bolt_md.png; sourceTree = "<group>"; };
+		3A9D5CBB17BC730D00FAC0C5 /* pipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe.png; sourceTree = "<group>"; };
+		3A9D5CBC17BC730D00FAC0C5 /* pipe2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe2.png; sourceTree = "<group>"; };
+		3A9D5CBD17BC730D00FAC0C5 /* steam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = steam.png; sourceTree = "<group>"; };
+		3A9D5CBE17BC730D00FAC0C5 /* ts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ts.png; sourceTree = "<group>"; };
+		3A9D5CBF17BC730D00FAC0C5 /* turbine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = turbine.png; sourceTree = "<group>"; };
+		3A9D5CC017BC730D00FAC0C5 /* vibrations.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vibrations.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +124,20 @@
 		3A9D5C9717BC717E00FAC0C5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3A9D5CB317BC730D00FAC0C5 /* bulb.png */,
+				3A9D5CB417BC730D00FAC0C5 /* electromagnetic_relay.png */,
+				3A9D5CB517BC730D00FAC0C5 /* flange.png */,
+				3A9D5CB617BC730D00FAC0C5 /* flanges.png */,
+				3A9D5CB717BC730D00FAC0C5 /* flanges1.png */,
+				3A9D5CB817BC730D00FAC0C5 /* flanges2.png */,
+				3A9D5CB917BC730D00FAC0C5 /* ic_launcher.png */,
+				3A9D5CBA17BC730D00FAC0C5 /* lightning_bolt_md.png */,
+				3A9D5CBB17BC730D00FAC0C5 /* pipe.png */,
+				3A9D5CBC17BC730D00FAC0C5 /* pipe2.png */,
+				3A9D5CBD17BC730D00FAC0C5 /* steam.png */,
+				3A9D5CBE17BC730D00FAC0C5 /* ts.png */,
+				3A9D5CBF17BC730D00FAC0C5 /* turbine.png */,
+				3A9D5CC017BC730D00FAC0C5 /* vibrations.png */,
 				3A9D5C9817BC717E00FAC0C5 /* Aug15-Info.plist */,
 				3A9D5C9917BC717E00FAC0C5 /* InfoPlist.strings */,
 				3A9D5C9C17BC717E00FAC0C5 /* main.m */,
@@ -164,6 +206,20 @@
 				3A9D5CA517BC717E00FAC0C5 /* Default@2x.png in Resources */,
 				3A9D5CA717BC717E00FAC0C5 /* Default-568h@2x.png in Resources */,
 				3A9D5CAD17BC717E00FAC0C5 /* TVViewController.xib in Resources */,
+				3A9D5CC117BC730D00FAC0C5 /* bulb.png in Resources */,
+				3A9D5CC217BC730D00FAC0C5 /* electromagnetic_relay.png in Resources */,
+				3A9D5CC317BC730D00FAC0C5 /* flange.png in Resources */,
+				3A9D5CC417BC730D00FAC0C5 /* flanges.png in Resources */,
+				3A9D5CC517BC730D00FAC0C5 /* flanges1.png in Resources */,
+				3A9D5CC617BC730D00FAC0C5 /* flanges2.png in Resources */,
+				3A9D5CC717BC730D00FAC0C5 /* ic_launcher.png in Resources */,
+				3A9D5CC817BC730D00FAC0C5 /* lightning_bolt_md.png in Resources */,
+				3A9D5CC917BC730D00FAC0C5 /* pipe.png in Resources */,
+				3A9D5CCA17BC730D00FAC0C5 /* pipe2.png in Resources */,
+				3A9D5CCB17BC730D00FAC0C5 /* steam.png in Resources */,
+				3A9D5CCC17BC730D00FAC0C5 /* ts.png in Resources */,
+				3A9D5CCD17BC730D00FAC0C5 /* turbine.png in Resources */,
+				3A9D5CCE17BC730D00FAC0C5 /* vibrations.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
